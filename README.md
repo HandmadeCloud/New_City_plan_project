@@ -27,7 +27,7 @@
 데이터 전처리, K-MEANS 클러스터링, MIN-MAX scaling, 시각화
 
 ### 사용 기술 스택
-- Python 3.8 ver
+- Python 3.6
 - Jupyter
 - Rapid miner
 - matplotlib
